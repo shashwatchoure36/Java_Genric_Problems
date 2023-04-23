@@ -1,6 +1,5 @@
 public class Generic_Find_Max {
 	
-	public class Find_Maximum {
 
 	public static void toPrintMaxInteger(Integer[] inputArray) {
 		System.out.println("ELEMENTS IN ARRAY : ");
