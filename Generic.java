@@ -56,7 +56,7 @@ public class Generic_Find_Max {
 
 		// Integer array
 		Integer[] intarr = { 50, 10, 39, 7, 11 };
-		Find_Maximum.toPrintMaxInteger(intarr);
+		Generic_Find_Max.toPrintMaxInteger(intarr);
 
 		//Double array
 		Double[] doublearr = { 23.7, 34.2, 72.9, 4.2, 52.2 };
